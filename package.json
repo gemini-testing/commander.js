@@ -1,5 +1,5 @@
 {
-  "name": "commander",
+  "name": "@gemini-testing/commander",
   "version": "2.15.0",
   "description": "the complete solution for node.js command-line programs",
   "keywords": [
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tj/commander.js.git"
+    "url": "https://github.com/gemini-testing/commander.js.git"
   },
   "scripts": {
     "lint": "eslint index.js",
