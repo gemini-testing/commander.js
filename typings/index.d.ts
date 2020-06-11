@@ -306,4 +306,7 @@ declare namespace commander {
 }
 
 declare const commander: commander.CommanderStatic;
-export = commander;
+
+declare module "@gemini-testing/commander" {
+  export = commander;
+}
